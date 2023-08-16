@@ -47,8 +47,8 @@
 // Limit Switches
 //
 #define X_STOP_PIN                          PC0   // X-STOP
-#define Y_STOP_PIN                          PC1   // Y-STOP
-#define Z_STOP_PIN                          PC2   // Z-STOP
+#define Y_STOP_PIN                          PC2   // Y-STOP
+#define Z_STOP_PIN                          PC1   // Z-STOP
 
 //
 // Z Probe must be this pin
